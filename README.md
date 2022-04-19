@@ -7,7 +7,7 @@ Event Argument Extraction](https://arxiv.org/abs/2202.12109). ACL'2022.
  
 For study purpose only, it has my comments on its code in Chinese.
 
-Why Chinese? Because I'm Chinese, and for me it's convenient much more.
+Why in Chinese? Because I'm a Chinese, and for me it's convenient much more.
 
 ## Quick links
 
